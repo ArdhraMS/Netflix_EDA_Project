@@ -1,10 +1,10 @@
-# 🎬 Netflix EDA Project
+#  Netflix EDA Project
 
 This project explores the Netflix Titles dataset using Python and Jupyter Notebook. The goal is to understand patterns in Netflix’s catalog, including content types, genres, ratings, release trends, and country contributions.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 The dataset contains information about movies and TV shows available on Netflix, including:
 - Type (Movie/TV Show)
 - Title
@@ -19,7 +19,7 @@ The dataset contains information about movies and TV shows available on Netflix,
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 - Handled missing values
 - Converted `date_added` to datetime
 - Extracted year/month fields
@@ -28,7 +28,7 @@ The dataset contains information about movies and TV shows available on Netflix,
 
 ---
 
-## 📊 Exploratory Analysis
+##  Exploratory Analysis
 ### 🔹 Content Type Distribution
 Movies significantly outnumber TV shows.
 
@@ -46,7 +46,7 @@ Drama, Comedy, and Documentary are the most common genres.
 
 ---
 
-## ⭐ Key Insights
+##  Key Insights
 - Netflix’s catalog is movie‑heavy.
 - Post‑2015 expansion is clearly visible.
 - Mature content dominates the platform.
@@ -55,7 +55,7 @@ Drama, Comedy, and Documentary are the most common genres.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -65,5 +65,5 @@ Drama, Comedy, and Documentary are the most common genres.
 
 ---
 
-## 📌 Project Status
+##  Project Status
 Completed EDA with visualizations and insights. 
