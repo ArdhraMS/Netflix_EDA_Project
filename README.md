@@ -52,6 +52,7 @@ Drama, Comedy, and Documentary are the most common genres.
 - Mature content dominates the platform.
 - Strong global diversity in content.
 - Drama & Comedy are the most frequent genres.
+<img width="1804" height="1377" alt="image" src="https://github.com/user-attachments/assets/d8618337-caf1-4a12-871d-a62f3aea736b" />
 
 ---
 
